@@ -1,12 +1,10 @@
-[README.md](https://github.com/AndrejRistovski/VP-Tetris-Game/files/15214239/README.md)
-
 # Tetris Game
 
 WPF Application by: Andrej Ristovski, Anika Ristevska and Mila Jovanoska
 
 ## Documentation
 
-#### __Македонски:__
+### __Македонски:__
 
 #### Опис на апликацијата:
 
@@ -241,7 +239,7 @@ __`ClearFullRows():`__ Метод за бришење на сите целосн
  - Почетната позиција на блокот (StartOffset)
  - Логиката за поместување, вртење и проверка на блокот дали може да се стави на одредена позиција во играта
 
-#### __Englsih:__
+### __Englsih:__
 
 #### Description:
 The application we created as a team is a classic Tetris game where the player needs to position falling blocks of different colors and shapes to create complete rows, which are then cleared to earn points.
